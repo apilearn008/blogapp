@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/apilearn008/blogapp.git"
   },
-  "dependencies": "express",
+  "dependencies": {
+    "express": "*",
+    "path": "*"
+  },
   "author": "Rachit",
   "license": "ISC",
   "bugs": {

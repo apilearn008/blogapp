@@ -1,0 +1,13 @@
+.opacity {
+	opacity: 1;
+	visibility: visible;
+	transition: visibility 2s, opacity 0.5s linear;
+}
+.hide {
+	opacity: 0;
+	visibility: hidden;
+
+}
+.pad {
+	padding: 3rem 1rem;
+}
