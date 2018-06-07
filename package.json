@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "express": "*",
-    "path": "*"
+    "path": "*",
+    "body-parser": "*",
+    "mongodb": "*"
   },
   "author": "Rachit",
   "license": "ISC",
